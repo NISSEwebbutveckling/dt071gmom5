@@ -14,7 +14,7 @@ Fokus skulle vara på kursens lärmoment.
 
 ### Syftet med uppgiften är att studenten efter genomförd laboration ska:
  * Tillämpa de kunskaper som lärts ut under kursen för att skapa en mer omfattande och användbar applikation skriven i C#.
- * Ecentuellt (frivilligt) använda fler tillägg än bara ramverket .NET för att skapa en applikation.
+ * Eventuellt (frivilligt) använda fler tillägg än bara ramverket .NET för att skapa en applikation.
  * Skapa en en projektrapport som beskriver ditt arbete med projektuppgiften.
  * Skapa en enklare presentation av ditt arbete i videoformat.
 
@@ -26,8 +26,9 @@ Därefter finns det möjlighet att ta bort en valfri post samt visa alla poster.
 2. Ett enklare menysystem hanterar del val som ska kunna genomföras.
 * Generera nya noter.
 * Ta bort post med noter enligt ett valt index.
+* Avsluta programmet.
 
-3. I samband med att de genererade noterna sparas, så får användaren även möjlihget att lämna ett namn eller meddelande, dagens datum läggs till automatiskt.
+3. I samband med att de genererade noterna sparas, så får användaren även möjlighet att lämna ett namn eller meddelande, dagens datum läggs till automatiskt.
 
 4. De sparade posterna serialiseras/deserialiseras samt sparas på fil .json, så att tidigare inmatad data finns lagrad.
 
@@ -45,5 +46,5 @@ Jag kommer inte att gå in på detaljer som berör exempelvis själva installati
 
 ### Övrigt
 Detta program är skapat i utbildningssyfte. 
-(Jag kan inte ta ansvar över vad du åstadkommer om/när du försöker att återskapa detta och jag har inte tid/möjlihget med ev. support.)
+(Jag kan inte ta ansvar över vad du åstadkommer om/när du försöker att återskapa detta och jag har inte tid/möjlighet med ev. support.)
 
